@@ -16,11 +16,11 @@ PeerPath is a mentorship platform designed to provide support and guidance to fi
 
 ## Screenshots
 ### Home Page
-![Home Page](images/p_home.jpeg)
+![Home Page](Images/p_home.jpeg)
 
 ### Profile Page
-![Profile Page](images/p_mentorspage.jpeg)
-![Profile Page](images/p_pfp.jpeg)
+![Profile Page](Images/p_mentorspage.jpeg)
+![Profile Page](Images/p_pfp.jpeg)
 
 
 ## Installation & Setup
